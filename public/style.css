@@ -1,0 +1,37 @@
+body {
+    border-style: groove;
+    border-width: 15px;
+    border-radius: 5px;
+    border-color: red;
+    background-color: orange;
+    height: 93vh;
+}
+
+.form {
+    width: 400px;
+    border-style: groove;
+    border-width: 15px;
+    border-radius: 5px;
+    border-color: red;
+    position: relative;
+    left: 33%;
+
+}
+
+input {
+    display: block;
+    font-size: 24px;
+    height: 36px;
+    margin: 0 20px 0 20px;
+    
+}
+label{
+    font-family: sans-serif;
+    font-size: larger;
+    color: rgb(251, 255, 0);
+}
+
+h1, h4{
+    font-family: sans-serif;
+    color: rgb(251, 255, 0); 
+}
